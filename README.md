@@ -20,6 +20,6 @@ Google 有着很多通用的工程实践经验，这些实践经验涵盖了所�
 ## 协议
 
 本项目遵循CC-By 3.0协议并受其保护。我们鼓励你去分享该文档。
-关于协议详情请参照 https://creativecommons.org/licenses/by/3.0/
+关于协议详情请参照 <https://creativecommons.org/licenses/by/3.0/>
 
 <a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>

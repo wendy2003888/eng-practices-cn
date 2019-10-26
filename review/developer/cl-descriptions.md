@@ -52,6 +52,7 @@ CL描述的 **第一行** 应该简洁地总结 *具体做了什么* **内容** 
 
 ### 功能变更
 
+例如:
 > rpc: remove size limit on RPC server message freelist.
 >
 > Servers like FizzBuzz have very large messages and would benefit from reuse.
@@ -63,6 +64,7 @@ CL描述的 **第一行** 应该简洁地总结 *具体做了什么* **内容** 
 
 ### 重构
 
+例如:
 > Construct a Task with a TimeKeeper to use its TimeStr and Now methods.
 >
 > Add a Now method to Task, so the borglet() getter method can be removed (which
@@ -80,6 +82,7 @@ CL描述的 **第一行** 应该简洁地总结 *具体做了什么* **内容** 
 
 ### 需要背景（上下文）的小CL
 
+例如:
 > Create a Python3 build rule for status.py.
 >
 > This allows consumers who are already using this as in Python3 to depend on a
